@@ -4,6 +4,6 @@ Está pagina foi criada para um desafio durante o curso de HTML5 e CSS3 do  site
 
 ## Confira meu Projeto clicando no link abaixo
 
-* https://victormreis.github.io/CursoEmVideoHTMLeCSS/
+* https://victormreis.github.io/DesafioCursoEmVideoHTMLL-CSS/
 
 
